@@ -139,6 +139,10 @@ form {
     justify-content: space-between;
 }
 
+#labelRead {
+    color: black;
+}
+
 input[type=text], input[type=number] {
     display: block;
     width: 90%;
